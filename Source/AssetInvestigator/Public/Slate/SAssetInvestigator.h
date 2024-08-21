@@ -1,8 +1,7 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// © 2024 DrElliot. All Rights Reserved.
 
 #pragma once
 #include "SAssetItem.h"
-#include "AssetRegistry/AssetRegistryModule.h"
 #include "Misc/ScopedSlowTask.h"
 
 

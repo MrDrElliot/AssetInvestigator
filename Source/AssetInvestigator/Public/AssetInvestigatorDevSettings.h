@@ -1,4 +1,7 @@
-﻿// DrElliot
+﻿// © 2024 DrElliot. All Rights Reserved.
+
+
+// DrElliot
 
 #pragma once
 

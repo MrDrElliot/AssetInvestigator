@@ -1,3 +1,6 @@
+// © 2024 DrElliot. All Rights Reserved.
+
+
 #pragma once
 
 #define LOCTEXT_NAMESPACE "Asset Investigator"

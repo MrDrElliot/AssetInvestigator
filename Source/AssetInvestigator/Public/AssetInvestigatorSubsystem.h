@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// © 2024 DrElliot. All Rights Reserved.
 
 #pragma once
 
@@ -6,9 +6,7 @@
 #include "Subsystems/EngineSubsystem.h"
 #include "AssetInvestigatorSubsystem.generated.h"
 
-/**
- * 
- */
+
 UCLASS()
 class ASSETINVESTIGATOR_API UAssetInvestigatorSubsystem : public UEngineSubsystem
 {

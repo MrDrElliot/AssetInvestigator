@@ -1,4 +1,4 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// © 2024 DrElliot. All Rights Reserved.
 
 #include "AssetInvestigator.h"
 
